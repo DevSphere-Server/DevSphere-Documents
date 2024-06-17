@@ -1,0 +1,14 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Open a Ticket",
+      "description": "**When opening a ticket**, please immediately send the topic of your ticket, as well as any related usernames, User IDs, and proof.\n\n# Ticket Guidelines\nWhen creating a ticket, please follow these guidelines to ensure your issue or request is handled as swiftly as possible. Failing to comply may result in your **ticket being closed**, a **moderation action being taken against you**, or you being **blacklisted from our ticketing system**.\n\n## Stay Respectful\nWe understand that series of events leading up to you opening a ticket may be frustrating, but our staff are here to help. Do not insult our staff, and try to comply as much as possible.",
+      "color": 9927935,
+      "footer": {
+        "text": "DevSphere Administration"
+      }
+    }
+  ],
+  "attachments": []
+}
