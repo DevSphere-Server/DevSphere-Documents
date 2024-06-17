@@ -1,0 +1,14 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "DevSphere Ticket",
+      "description": "Welcome! This is your ticket to get in contact with server staff.\n\nPlease send the reason for opening this ticket, as well as any evidence or related User IDs, if it pertains to your ticket opening reason.",
+      "color": 10485143,
+      "footer": {
+        "text": "DevSphere Administration"
+      }
+    }
+  ],
+  "attachments": []
+}
